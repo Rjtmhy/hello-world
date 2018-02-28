@@ -1,4 +1,4 @@
 # hello-world
 Getting started.
 
-I am normal programmer trying to improve my skills through experimentation.
+I am a programmer who is trying to improve my skills through experimentation and continuous self-assessment.
